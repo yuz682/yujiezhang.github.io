@@ -8,4 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a senior undergrad major in Bioinformatics with math minor in UCSD. I'm also an undergraduate researcher in [Lewis Lab](http://lewislab.ucsd.edu)
+I'm currently a senior undergrad major in Bioengineering: Bioinformatics with math minor at the University of California, San Diego. I'm also an undergraduate researcher in [Lewis Lab](http://lewislab.ucsd.edu), a.k.a. Systems Biology And Cell Engineering Lab.
+
+
+Currently, I'm applying for PhD programs with a specific interest in computational epigenetics on psychiatry. Feel free to contact me through LinkedIn or email regarding to opportunities or collabrations. 
