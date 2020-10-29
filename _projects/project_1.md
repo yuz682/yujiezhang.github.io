@@ -1,6 +1,6 @@
 ---
 title: "Cardio_DT"
-excerpt: "Detect and track cardiomyocytes contraction <br/><img src='/images/CardioDT.png' width='87' height='116'>"
+excerpt: "Detect and track cardiomyocytes contraction <img src='/images/CardioDT.png' width='131' height='178'>"
 collection: projects
 ---
 
