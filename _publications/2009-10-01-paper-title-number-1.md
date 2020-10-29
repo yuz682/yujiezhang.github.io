@@ -11,5 +11,3 @@ citation: 'Kellman, B. P.; Zhang, Y.; Logomasini, E.; Meinhardt, E.; Godinez-Mac
 This paper is about an unambiguous representation for describing glycosylation reactions in both literature and code.
 
 [Download paper here](https://www.beilstein-journals.org/bjoc/content/pdf/1860-5397-16-215.pdf)
-
-Recommended citation: Kellman, B. P.; Zhang, Y.; Logomasini, E.; Meinhardt, E.; Godinez-Macias, K. P.; Chiang, A. W. T.; Sorrentino, J. T.; Liang, C.; Bao, B.; Zhou, Y.; Akase, S.; Sogabe, I.; Kouka, T.; Winzeler, E. A.; Wilson, I. B. H.; Campbell, M. P.; Neelamegham, S.; Krambeck, F. J.; Aoki-Kinoshita, K. F.; Lewis, N. E. Beilstein J. Org. Chem. 2020, 16, 2645–2662. doi:10.3762/bjoc.16.215.
