@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download Resume](files/YujieZhangResume_10292020.pdf), Last updated: 10.29.2020
+<a href="files/YujieZhangResume_10292020.pdf" download>Download Resume</a>, Last updated: 10.29.2020
 
 Education
 ======
