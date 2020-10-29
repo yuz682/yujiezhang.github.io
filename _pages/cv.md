@@ -11,49 +11,42 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Bioengineering: bioinformaitcs, U.C. San Diego, Jacob School of Engineering (Sep. 2017 - ??)
+* High School of North West Normal University, International Department (Sep. 2014 - May. 2017)
+
+Research experience
+======
+* June 2019 - ??: Undergraduate Researcher
+  * U.C. San Diego, [Department of Pediatrics](https://medschool.ucsd.edu/som/pediatrics/Pages/default.aspx), [Systems Biology and Cell Engineering Lab](http://lewislab.ucsd.edu)
+  * Supervisor: [Dr. Nathan Lewis](https://profiles.ucsd.edu/nathan.lewis)
+  
+* March 2018 - March 2019: Undergraduate Researcher
+  * U.C. San Diego, [Department of Bioengineering](http://be.ucsd.edu), [Cartilage Tissue Engineering Lab](https://sites.google.com/a/eng.ucsd.edu/cte/home/)
+  * Supervisor: [Dr. Robert L. Sah](https://iem.ucsd.edu/people/profiles/robert-sah.html)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* March 2019 - ??: Undergraduate Intern
+  * [Nanotools Bioscience](https://www.nanotoolsbio.com)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* March 2019 - May 2019: MATLAB Tutor
+  * U.C. San Diego, [Department of Mathematics](https://math.ucsd.edu)
   
+* January 2019 - March 2019: MATH109 - Mathematical Reasoning - Grader
+  * U.C. San Diego, [Department of Mathematics](https://math.ucsd.edu)
+
+Professional Activities
+======
+* Academic Relations Chair, [Undergraduate Bioinformatics Club](https://ubicucsd.github.io), U.C. San Diego (May. 2018 - May. 2019)
+
+Awards
+======
+
+* Triton Research and Experiential Learning Scholars ([TRELS](https://ubicucsd.github.io)) - $1000 (Jan. 2020)
+* Triton Research and Experiential Learning Scholars ([TRELS](https://ubicucsd.github.io)) - $1000 (Sep. 2019)
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Programming: Python, SQL, MATLAB, macro, Java, R, C++, Latex, SPARQL
+* Software: ImageJ, Colab, Jupyter Notebook
+* Wet lab: Electronic Microscope, Drill Press Machine, Pipetting, PBS + PI making
