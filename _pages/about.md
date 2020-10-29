@@ -12,4 +12,4 @@ I'm currently a senior undergrad major in Bioengineering: Bioinformatics with ma
 
 Currently, I'm applying for PhD programs with a specific interest in computational epigenetics on psychiatry. Feel free to contact me through LinkedIn or email regarding opportunities or collabrations. 
 
-Check the CV page to know more about me!
+Check the [CV](/pages/cv.md) page to know more about me!
