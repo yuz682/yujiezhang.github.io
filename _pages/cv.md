@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download Resume](files/YujieZhangResume_10292020.pdf), Last updated: 10.29.2020
+
 Education
 ======
 * B.S. in Bioengineering: bioinformaitcs, U.C. San Diego, Jacob School of Engineering (Sep. 2017 - ??)
