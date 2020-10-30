@@ -47,6 +47,18 @@ Awards
 * Triton Research and Experiential Learning Scholars ([TRELS](https://ubicucsd.github.io)) - $1000 (Jan. 2020)
 * Triton Research and Experiential Learning Scholars ([TRELS](https://ubicucsd.github.io)) - $1000 (Sep. 2019)
 
+Professional Classes
+======
+
+* Biological Data Analysis, [BENG 182](https://www.ucsd.edu/catalog/courses/BENG.html), U.C. San Diego (March - June, 2020)
+* Image Processing, [CSE 166](https://www.ucsd.edu/catalog/courses/CSE.html), U.C. San Diego (March - June, 2020)
+* Molecular Sequencing Analysis, [BENG 181](https://www.ucsd.edu/catalog/courses/BENG.html), U.C. San Diego (Jan. - March, 2020)
+* Probability and Statistics for Bioinformatics, [MATH 186](https://www.ucsd.edu/catalog/courses/MATH.html), U.C. San Diego (Jan. - March, 2020)
+* Design and Analysis of Algorithms, [CSE 101](https://www.ucsd.edu/catalog/courses/CSE.html), U.C. San Diego (Sep. - Dec., 2019)
+* Statistical Reasoning for Bioengineering Applications, [BENG 100](https://www.ucsd.edu/catalog/courses/BENG.html), U.C. San Diego (March - June, 2019)
+* Advanced Bioinformatics Laboratory, [CSE 185](https://www.ucsd.edu/catalog/courses/CSE.html), U.C. San Diego (March - June, 2019)
+* Advanced Data Structure, [CSE 100](https://www.ucsd.edu/catalog/courses/CSE.html), U.C. San Diego (Jan. - March, 2019)
+
 Skills
 ======
 * Programming: Python, SQL, MATLAB, macro, Java, R, C++, Latex, SPARQL
