@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Who am I"
+title: "undergraduate researcher at UCSD, bioinformatics, soccer"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
