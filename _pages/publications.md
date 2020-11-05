@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Yujie Zhang's Publications"
 permalink: /publications/
 author_profile: true
 ---
