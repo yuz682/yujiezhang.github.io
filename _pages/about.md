@@ -12,6 +12,6 @@ I'm currently a senior undergrad major in Bioengineering: Bioinformatics with ma
 
 Currently, I'm applying for PhD programs with a specific interest in computational method development on exploring how we think and behave. I'm also interested in computational epigenetics on psychiatry. Feel free to contact me through LinkedIn or email regarding opportunities or collabrations. 
 
-This is a presentation I made for my writing class, discussing the topic I'm interested in - [DNA vs. Personality](https://youtu.be/YiMVRbvRtkM). 
+This is a presentation I made for my writing class, discussing the topic I'm interested in - [DNA vs. Personality](https://youtu.be/YiMVRbvRtkM){:target="_blank"}. 
 
 Check the [CV](https://yuz682.github.io/cv/) page to know more about me!
