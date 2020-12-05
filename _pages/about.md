@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "UCSD, bioinformatics, soccer"
+title: "UCSD, Bioinformatics, Playing Soccer"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
