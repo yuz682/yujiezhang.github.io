@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="https://github.com/yuz682/yuz682.github.io/raw/master/files/YujieZhangResume_10292020.pdf" download>Download Resume</a>, Last updated: 10.29.2020
+<a href="https://github.com/yuz682/yuz682.github.io/raw/master/files/YujieZhangResume_05192021.pdf" download>Download Resume</a>, Last updated: 05.19.2021
 
 Education
 ======
