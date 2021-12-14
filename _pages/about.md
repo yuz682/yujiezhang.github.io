@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "UCSD, Bioinformatics, Playing Soccer"
+title: "Harvard, Bioinformatics, Soccer"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a senior undergrad major in Bioengineering: Bioinformatics with math minor at the University of California, San Diego. I'm also an undergraduate researcher in [Lewis Lab](http://lewislab.ucsd.edu), a.k.a. Systems Biology And Cell Engineering Lab.
+I'm currently a MS graduate student under the Biostatistics department at Harvard T.H. Chan School of Public Health. My program is called Computational Biology & Quantitative Genetics (CBQG). I'm also a graduate student researcher in [HLi Lab](https://hlilab.github.io/) at the Data Science Dept. of Dana Farber Cancer Institute. 
 
-I'm about to start my journey in Harvard T.H. Chan School of Public Health with a Master of Science in Computational Biology & Quantitative Genetics. I'm excited to step into the next stage exploring computational epigenetics and other genetics related studies. Feel free to contact me through LinkedIn or email regarding opportunities or collabrations. 
+I'm currently interested in analyzing genomics dataset (RNA-seq), developing bioinformatics tools, and exploring genomic algorthms (long read sequencing assembly). Feel free to contact me through LinkedIn or email regarding opportunities or collabrations. 
 
 Check the [CV](https://yuz682.github.io/cv/) page to know more about me!
