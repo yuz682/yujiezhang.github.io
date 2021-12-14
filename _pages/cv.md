@@ -13,12 +13,17 @@ redirect_from:
 
 Education
 ======
-* B.S. in Bioengineering: bioinformaitcs, U.C. San Diego, Jacob School of Engineering (Sep. 2017 - ??)
+* M.S. in Computational Biology & Quantitative Genetics, Harvard T.H. Chan School of Public Health (Aug. 2021 - May. 2023)
+* B.S. in Bioengineering: bioinformaitcs, U.C. San Diego, Jacob School of Engineering (Sep. 2017 - June. 2021)
 * High School of North West Normal University, International Department (Sep. 2014 - May. 2017)
 
 Research experience
 ======
-* June 2019 - ??: Undergraduate Researcher
+* Nov. 2021 - now: Graduate Student Researcher
+  * Dana Farber Cancer Institute, [Department of Data Science](https://ds.dfci.harvard.edu/), [HLi Lab](https://hlilab.github.io/)
+  * Supervisor: [Dr. Heng Li](https://www.dana-farber.org/find-a-doctor/heng-li/)
+
+* June 2019 - now: Undergraduate Researcher
   * U.C. San Diego, [Department of Pediatrics](https://medschool.ucsd.edu/som/pediatrics/Pages/default.aspx), [Systems Biology and Cell Engineering Lab](http://lewislab.ucsd.edu)
   * Supervisor: [Dr. Nathan Lewis](https://profiles.ucsd.edu/nathan.lewis)
   
@@ -28,7 +33,10 @@ Research experience
 
 Work experience
 ======
-* March 2019 - ??: Undergraduate Intern
+* Nov. 2021 - now: Graduate Student Researcher - Part time
+  * [Dana Farber Cancer Institute](https://www.dana-farber.org/)
+
+* March 2019 - March 2021: Undergraduate Intern
   * [Nanotools Bioscience](https://www.nanotoolsbio.com)
 
 * March 2019 - May 2019: MATLAB Tutor
@@ -39,6 +47,7 @@ Work experience
 
 Professional Activities
 ======
+* Computational Biology Academic Leader, [X Academy](https://xacademy.cc/) (Aug. 2021 - Aug. 2021)
 * Academic Relations Chair, [Undergraduate Bioinformatics Club](https://ubicucsd.github.io), U.C. San Diego (May. 2018 - May. 2019)
 
 Awards
@@ -49,15 +58,20 @@ Awards
 
 Professional Classes
 ======
+Harvard T.H. Chan School of Public Health
+* Applied Regression Analysis, [BST 210](https://www.coursicle.com/harvard/courses/BST/210/) (Aug. - Dec., 2021)
+* Concepts in genome analysis, [BMIF 201](https://www.coursicle.com/harvard/courses/BMIF/201/) (Oct. - Dec., 2021)
+* Principles of Genetic Epidemiology, [EPI 507](https://www.coursicle.com/harvard/courses/EPI/507/) (Oct. - Dec., 2021)
 
-* Biological Data Analysis, [BENG 182](https://www.ucsd.edu/catalog/courses/BENG.html), U.C. San Diego (March - June, 2020)
-* Image Processing, [CSE 166](https://www.ucsd.edu/catalog/courses/CSE.html), U.C. San Diego (March - June, 2020)
-* Molecular Sequencing Analysis, [BENG 181](https://www.ucsd.edu/catalog/courses/BENG.html), U.C. San Diego (Jan. - March, 2020)
-* Probability and Statistics for Bioinformatics, [MATH 186](https://www.ucsd.edu/catalog/courses/MATH.html), U.C. San Diego (Jan. - March, 2020)
-* Design and Analysis of Algorithms, [CSE 101](https://www.ucsd.edu/catalog/courses/CSE.html), U.C. San Diego (Sep. - Dec., 2019)
-* Statistical Reasoning for Bioengineering Applications, [BENG 100](https://www.ucsd.edu/catalog/courses/BENG.html), U.C. San Diego (March - June, 2019)
-* Advanced Bioinformatics Laboratory, [CSE 185](https://www.ucsd.edu/catalog/courses/CSE.html), U.C. San Diego (March - June, 2019)
-* Advanced Data Structure, [CSE 100](https://www.ucsd.edu/catalog/courses/CSE.html), U.C. San Diego (Jan. - March, 2019)
+UC San Diego
+* Biological Data Analysis, [BENG 182](https://www.ucsd.edu/catalog/courses/BENG.html) (March - June, 2020)
+* Image Processing, [CSE 166](https://www.ucsd.edu/catalog/courses/CSE.html) (March - June, 2020)
+* Molecular Sequencing Analysis, [BENG 181](https://www.ucsd.edu/catalog/courses/BENG.html) (Jan. - March, 2020)
+* Probability and Statistics for Bioinformatics, [MATH 186](https://www.ucsd.edu/catalog/courses/MATH.html) (Jan. - March, 2020)
+* Design and Analysis of Algorithms, [CSE 101](https://www.ucsd.edu/catalog/courses/CSE.html) (Sep. - Dec., 2019)
+* Statistical Reasoning for Bioengineering Applications, [BENG 100](https://www.ucsd.edu/catalog/courses/BENG.html) (March - June, 2019)
+* Advanced Bioinformatics Laboratory, [CSE 185](https://www.ucsd.edu/catalog/courses/CSE.html) (March - June, 2019)
+* Advanced Data Structure, [CSE 100](https://www.ucsd.edu/catalog/courses/CSE.html) (Jan. - March, 2019)
 
 Skills
 ======
