@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yujie Zhang"
 title_separator          : "-"
 name                     : &name "Yujie Zhang"
-description              : &description "Undergraduate Researcher at UCSD"
+description              : &description "Graduate Student Researcher at Harvard"
 url                      : https://yuz682.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yuz682.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yujie (York) Zhang"
   avatar           : "profile.png"
-  bio              : "Undergraduate Bioinformatics Researcher"
-  location         : "San Diego, California"
+  bio              : "Graduate Student Researcher at Harvard"
+  location         : "Boston, Massachusetts"
 #   employer         :
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=Hfre708AAAAJ"
-  email            : yuz682@ucsd.edu
+  email            : yujiezhang@hsph.harvard.edu
   researchgate     : https://www.researchgate.net/profile/Yujie_Zhang45
   uri              :
   bitbucket        :
