@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="https://github.com/yuz682/yuz682.github.io/raw/master/files/YujieZhangResume_12132021.pdf" download>Download Resume</a>, Last updated: 12.14.2021
+<a href="https://github.com/yuz682/yuz682.github.io/raw/master/files/YujieZhangResume_09112022.pdf" download>Download Resume</a>, Last updated: 09.17.2022
 
 Education
 ======
@@ -19,11 +19,15 @@ Education
 
 Research experience
 ======
+* June. 2022 - now: Graduate Student Researcher
+  * Broad Institute of MIT and Harvard, [Stanley Center for Psychiatric Research](https://www.broadinstitute.org/stanley), [Hailiang Huang Lab](https://huanglab.ac/)
+  * Supervisor: [Dr. Hailiang Huang](https://scholar.harvard.edu/huang/bio)
+
 * Nov. 2021 - now: Graduate Student Researcher
-  * Dana Farber Cancer Institute, [Department of Data Science](https://ds.dfci.harvard.edu/), [HLi Lab](https://hlilab.github.io/)
+  * Dana Farber Cancer Institute, [Department of Data Science](https://ds.dfci.harvard.edu/), [Heng Li Lab](https://hlilab.github.io/)
   * Supervisor: [Dr. Heng Li](https://www.dana-farber.org/find-a-doctor/heng-li/)
 
-* June 2019 - now: Undergraduate Researcher
+* June 2019 - May 2022: Undergraduate Researcher
   * U.C. San Diego, [Department of Pediatrics](https://medschool.ucsd.edu/som/pediatrics/Pages/default.aspx), [Systems Biology and Cell Engineering Lab](http://lewislab.ucsd.edu)
   * Supervisor: [Dr. Nathan Lewis](https://profiles.ucsd.edu/nathan.lewis)
   
@@ -33,6 +37,9 @@ Research experience
 
 Work experience
 ======
+* June. 2022 - now: Graduate Student Researcher - Part time
+  * [Broad Institute of MIT and Harvard](https://www.broadinstitute.org/)
+
 * Nov. 2021 - now: Graduate Student Researcher - Part time
   * [Dana Farber Cancer Institute](https://www.dana-farber.org/)
 
@@ -47,6 +54,7 @@ Work experience
 
 Professional Activities
 ======
+* Attendee, [American Society of Human Genetics (ASHG) Annual Meeting 2022](https://www.ashg.org/meetings/2022-annual-meeting/) (Oct. 2022 - Oct. 2022)
 * Computational Biology Academic Leader, [X Academy](https://xacademy.cc/) (Aug. 2021 - Aug. 2021)
 * Academic Relations Chair, [Undergraduate Bioinformatics Club](https://ubicucsd.github.io), U.C. San Diego (May. 2018 - May. 2019)
 
@@ -59,6 +67,11 @@ Awards
 Professional Classes
 ======
 Harvard T.H. Chan School of Public Health
+* Evolutionary & Quant Genomics, [MIT HST .508](http://student.mit.edu/catalog/mHSTa.html#:~:text=HST.-,508,-Evolutionary%20and%20Quantitative) (Sep. - Dec., 2022)
+* Data Science and Deep Learning, [CS 109b](https://www.coursicle.com/harvard/courses/COMPSCI/109B/) (Feb. - May., 2022)
+* Machine Learning Healthcare, [MIT HST .956](https://mlhcmit.github.io/) (Feb. - May., 2022)
+* Decision Analysis Methods, [RDS 285](https://www.coursicle.com/harvard/courses/RDS/285/) (Feb. - March., 2022)
+* Analysis of Genetic Assn Stdys, [EPI 293](https://www.coursicle.com/harvard/courses/EPI/293/) (Jan. - Feb., 2022)
 * Applied Regression Analysis, [BST 210](https://www.coursicle.com/harvard/courses/BST/210/) (Aug. - Dec., 2021)
 * Concepts in genome analysis, [BMIF 201](https://www.coursicle.com/harvard/courses/BMIF/201/) (Oct. - Dec., 2021)
 * Principles of Genetic Epidemiology, [EPI 507](https://www.coursicle.com/harvard/courses/EPI/507/) (Oct. - Dec., 2021)
@@ -77,4 +90,3 @@ Skills
 ======
 * Programming: Python, SQL, MATLAB, macro, Java, R, C++, Latex, SPARQL
 * Software: ImageJ, Colab, Jupyter Notebook
-* Wet lab: Electronic Microscope, Drill Press Machine, Pipetting, PBS + PI making
