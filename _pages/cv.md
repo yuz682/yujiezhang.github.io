@@ -9,21 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="https://github.com/yuz682/yuz682.github.io/raw/master/files/YujieZhangResume_09112022.pdf" download>Download Resume</a>, Last updated: 09.17.2022
+<a href="https://github.com/yuz682/yuz682.github.io/raw/master/files/YujieZhangResume_08292023.pdf" download>Download Resume</a>, Last updated: 09.17.2022
 
 Education
 ======
+* Ph.D. In Biological & Medical Informatics, U.C. San Francisco (Sep. 2023 - 2028)
 * M.S. in Computational Biology & Quantitative Genetics, Harvard T.H. Chan School of Public Health (Aug. 2021 - May. 2023)
 * B.S. in Bioengineering: bioinformaitcs, U.C. San Diego, Jacob School of Engineering (Sep. 2017 - June. 2021)
 * High School of North West Normal University, International Department (Sep. 2014 - May. 2017)
 
 Research experience
 ======
-* June. 2022 - now: Graduate Student Researcher
+* June. 2022 - May. 2023: Graduate Student Researcher
   * Broad Institute of MIT and Harvard, [Stanley Center for Psychiatric Research](https://www.broadinstitute.org/stanley), [Hailiang Huang Lab](https://huanglab.ac/)
   * Supervisor: [Dr. Hailiang Huang](https://scholar.harvard.edu/huang/bio)
 
-* Nov. 2021 - now: Graduate Student Researcher
+* Nov. 2021 - May. 2023: Graduate Student Researcher
   * Dana Farber Cancer Institute, [Department of Data Science](https://ds.dfci.harvard.edu/), [Heng Li Lab](https://hlilab.github.io/)
   * Supervisor: [Dr. Heng Li](https://www.dana-farber.org/find-a-doctor/heng-li/)
 
