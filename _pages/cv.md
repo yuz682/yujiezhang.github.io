@@ -38,10 +38,10 @@ Research experience
 
 Work experience
 ======
-* June. 2022 - now: Graduate Student Researcher - Part time
+* June. 2022 - May. 2023: Graduate Student Researcher - Part time
   * [Broad Institute of MIT and Harvard](https://www.broadinstitute.org/)
 
-* Nov. 2021 - now: Graduate Student Researcher - Part time
+* Nov. 2021 - May. 2023: Graduate Student Researcher - Part time
   * [Dana Farber Cancer Institute](https://www.dana-farber.org/)
 
 * March 2019 - March 2021: Undergraduate Intern
