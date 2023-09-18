@@ -55,6 +55,7 @@ Work experience
 
 Professional Activities
 ======
+* Poster Presentation Selected, [American Society of Human Genetics (ASHG) Annual Meeting 2022](https://www.ashg.org/meetings/2023meeting/)
 * Attendee, [American Society of Human Genetics (ASHG) Annual Meeting 2022](https://www.ashg.org/meetings/2022-annual-meeting/) (Oct. 2022 - Oct. 2022)
 * Computational Biology Academic Leader, [X Academy](https://xacademy.cc/) (Aug. 2021 - Aug. 2021)
 * Academic Relations Chair, [Undergraduate Bioinformatics Club](https://ubicucsd.github.io), U.C. San Diego (May. 2018 - May. 2019)
