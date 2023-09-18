@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Harvard, Bioinformatics, Soccer"
+title: "UCSF, Bioinformatics, Soccer"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
